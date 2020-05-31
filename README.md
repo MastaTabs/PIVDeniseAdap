@@ -1,9 +1,10 @@
 # PIV Denise Adapter
 
-Bought a snapped off PicassoIV and don't want to use cables to attach the video slot connector?
-Then PIV Denise Adapter comes to the rescue.
-It also integrates the functionality of the CD-Mix that not many people know it exists.
-This way you can listen to CD and Amiga audio through the PIV audio output at the same time.
+No free or missing video slot in your ECS/OCS system and want to fully  use a PicassoIV ?
+
+Then this adapter pcb comes to the rescue which replaces the PIV's FlickerFixer break off section.
+
+Important! The break off part of the PIV must be removed  to use this in place off it!
 
 The design isn't proven yet but was created from the original schematics and PCB layout.
 
